@@ -71,9 +71,9 @@ Use the following test credentials to log in (as provided by Reqres):
 
 ---
 
-## 🌍 Live Demo (Optional)
+## 🌍 Live Demo 
 
-[🔗 Deploy your project to Vercel or Netlify and add the live link here.]
+[https://reqres-usermanagement.vercel.app/login]
 
 ---
 
