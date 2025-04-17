@@ -73,7 +73,7 @@ Use the following test credentials to log in (as provided by Reqres):
 
 ## 🌍 Live Demo 
 
-[https://reqres-usermanagement.vercel.app/login]
+[https://reqres-usermanagement.vercel.app/login](https://reqres-usermanagement.vercel.app/login)
 
 ---
 
